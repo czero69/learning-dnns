@@ -13,5 +13,31 @@ this is repository containing selected books , courses, labs, projects, papers a
 
 ## cheatsheet:
 
-* [ml-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+* [ml-cheatsheet backpropagation](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html)
 > Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
+
+* [Derivative of Cross Entropy Loss with Softmax explained](https://deepnotes.io/softmax-crossentropy)
+
+## training models hints:
+
+* [Better Deep Learning, Train Faster, Reduce Overfitting, and Make Better Predictions](https://machinelearningmastery.com/better-deep-learning/)
+
+## blogs:
+
+* [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html#fn:15)
+
+## papers:
+
+* [papers with code collection](https://github.com/zziz/pwc)
+* [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
+
+### CNNs:
+
+* [skip architecture intro](https://www.quora.com/What-is-skip-architecture-in-CNN)
+* [Unsupervised CNN for Single View Depth
+Estimation: Geometry to the Rescue](https://arxiv.org/pdf/1603.04992.pdf)
+
+## frameworks:
+
+* [opencv + halide/openVino](https://github.com/opencv/opencv/blob/master/samples/dnn/classification.cpp)
+* [dlib](http://dlib.net/)
