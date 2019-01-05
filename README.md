@@ -18,6 +18,8 @@ this is repository containing selected books , courses, labs, projects, papers a
 
 * [Derivative of Cross Entropy Loss with Softmax explained](https://deepnotes.io/softmax-crossentropy)
 
+* [cnn explained](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
+
 ## training models hints:
 
 * [Better Deep Learning, Train Faster, Reduce Overfitting, and Make Better Predictions](https://machinelearningmastery.com/better-deep-learning/)
