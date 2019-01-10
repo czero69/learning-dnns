@@ -39,6 +39,10 @@ this is repository containing selected books , courses, labs, projects, papers a
 * [Unsupervised CNN for Single View Depth
 Estimation: Geometry to the Rescue](https://arxiv.org/pdf/1603.04992.pdf)
 
+### Youtube:
+
+* [Batch normalization explained](https://www.youtube.com/watch?v=em6dfRxYkYU)
+
 ## frameworks:
 
 * [opencv + halide/openVino](https://github.com/opencv/opencv/blob/master/samples/dnn/classification.cpp)
