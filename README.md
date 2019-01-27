@@ -11,6 +11,8 @@ this is repository containing selected books , courses, labs, projects, papers a
 * [dintrotodeeplearning.com/](http://introtodeeplearning.com/). Videos, slides, labs avilable under archived version tag.
 > MIT's official introductory course on deep learning methods with applications to machine translation, image recognition, game playing, and more. Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. 
 
+* [Coursea, Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
+
 ## cheatsheet:
 
 * [ml-cheatsheet backpropagation](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html)
