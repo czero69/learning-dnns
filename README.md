@@ -49,3 +49,8 @@ Estimation: Geometry to the Rescue](https://arxiv.org/pdf/1603.04992.pdf)
 
 * [opencv + halide/openVino](https://github.com/opencv/opencv/blob/master/samples/dnn/classification.cpp)
 * [dlib](http://dlib.net/)
+
+## interesting concepts/ides:
+
+* [denseNet, extended ResNet block](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
+* [Capsue Network, pose invariance](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
