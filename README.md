@@ -56,3 +56,7 @@ Estimation: Geometry to the Rescue](https://arxiv.org/pdf/1603.04992.pdf)
 * [Capsue Network, pose invariance](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 * [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
 * [Learnable Histograms](https://arxiv.org/pdf/1804.09398.pdf)
+
+## code collections:
+
+* [modelzoo](https://modelzoo.co/) Discover open source deep learning code and pretrained models.
