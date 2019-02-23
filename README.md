@@ -29,6 +29,7 @@ this is repository containing selected books , courses, labs, projects, papers a
 ## blogs:
 
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html#fn:15)
+* [intro to style transfer](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
 
 ## papers:
 
