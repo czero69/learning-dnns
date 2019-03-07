@@ -45,6 +45,7 @@ Estimation: Geometry to the Rescue](https://arxiv.org/pdf/1603.04992.pdf)
 ### Youtube:
 
 * [Batch normalization explained](https://www.youtube.com/watch?v=em6dfRxYkYU)
+* [Encoder-decoder demo](https://www.youtube.com/watch?v=4VAkrUNLKSo)
 
 ## frameworks:
 
